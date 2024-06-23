@@ -1,0 +1,11 @@
+.light header{
+    background: lightgray;
+    color: #222;
+}
+.light body{
+    background: lightgoldenrodyellow;
+    color: #333;
+}
+.light div .heading-section{
+    background-image: linear-gradient(lightgray, lightgoldenrodyellow);
+}

@@ -1,0 +1,11 @@
+.dark header{
+    background: #333;
+    color: white;
+}
+.dark body{
+    background: #333;
+    color: white;
+}
+.dark div .heading-section{
+    background-image: linear-gradient(#333, rgb(69, 0, 33));
+}
